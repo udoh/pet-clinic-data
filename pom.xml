@@ -11,6 +11,7 @@
     </parent>
 
     <artifactId>pet-clinic-data</artifactId>
+    <version>1.0.0-RELEASE</version>
 
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
